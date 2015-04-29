@@ -2,20 +2,19 @@
 
 ###What is your name?
 
-Your answer goes here
-
+John Hur
 ###What is your favorite color?
 
-Your answer goes here
+Blue
 
 ###Cats or Dogs?
 
-Your answer goes here
+Dogs. I have a large Hound and small terrier. 
 
 ###What would constitute a “perfect” day for you?
 
-Your answer goes here
+Starting with a sunrise surf. Afterwards go get an acai bowl with kate upton. Then go play some music with Phoenix and Geographer. 
 
 ###Given the choice of anyone in the world, whom would you want as a dinner guest?
 
-Your answer goes here
+Elon Musk or Craig Venter.
